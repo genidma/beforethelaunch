@@ -1,0 +1,50 @@
+body {
+	
+	font-family: 'Noto Serif SC', serif;
+}
+
+h1 {
+	color: #f5ec42;
+	font-size: 50px;
+	font-weight: normal;
+	margin-bottom: 0;
+/* I googled the term color picker html and it looks like google has a tool for this now. */
+/* As well, I have now learned how to embed comments in css. I cannot recall the last time I did this. But it must have been a while ago */
+}
+
+h2 {
+	color: black;
+	font-size: 26px;
+	margin-top: 0;
+}
+
+
+.bio {
+	color: #e9f542;
+	font-size: 14px;
+}
+
+.me {
+	height: 120px;
+	border-radius: 42.666%;
+	border-style: dotted;
+	border-color: yellow;
+	margin-top: 40px
+}
+
+.about {
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+
+}
+
+
+.grey {
+	height: 3px;
+	background-color: #4254f5;
+	border: none;
+	width: 50px;
+
+}
