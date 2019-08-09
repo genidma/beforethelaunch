@@ -48,3 +48,7 @@ h2 {
 	width: 50px;
 
 }
+
+ul.psych {
+list-style-image: url('/img/psych.png');
+}
